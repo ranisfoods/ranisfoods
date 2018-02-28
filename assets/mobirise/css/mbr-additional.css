@@ -13,3 +13,45 @@
 #header1-2 H1 {
   color: #27aae0;
 }
+#ext_menu-8 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-8.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-8 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-8 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-b .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-b.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-b .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-b .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box3-e .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-e .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#ext_menu-f .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-f.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-f .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-f .mbr-navbar__hamburger {
+  color: #ffffff;
+}
