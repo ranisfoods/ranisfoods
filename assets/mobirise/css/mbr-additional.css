@@ -13,14 +13,23 @@
 #header1-2 H1 {
   color: #ffffff;
 }
+#header1-2 P {
+  color: #efefef;
+}
+#gallery1-3 SMALL {
+  color: #ffffff;
+}
+#contacts3-j P {
+  color: #cccccc;
+}
 #ext_menu-8 .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-8.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #3d3e3b;
 }
 #ext_menu-8 .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #3d3e3b;
 }
 #ext_menu-8 .mbr-navbar__hamburger {
   color: #ffffff;
@@ -29,10 +38,10 @@
   font-size: 16px;
 }
 #ext_menu-b.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #3d3e3b;
 }
 #ext_menu-b .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #3d3e3b;
 }
 #ext_menu-b .mbr-navbar__hamburger {
   color: #ffffff;
@@ -43,14 +52,20 @@
 #msg-box3-e .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+#features1-k P {
+  color: #ffffff;
+}
+#features1-k .mbr-section__col .mbr-header__text {
+  color: #27aae0;
+}
 #ext_menu-f .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-f.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #3d3e3b;
 }
 #ext_menu-f .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #3d3e3b;
 }
 #ext_menu-f .mbr-navbar__hamburger {
   color: #ffffff;
